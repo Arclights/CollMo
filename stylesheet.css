@@ -1,0 +1,43 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #f0f0f0;
+	font-size: 8pt;
+	color: #444;
+}
+
+h3 {
+	font-weight: 200;
+	color: #888888;
+	font-size: 16pt;
+}
+
+#content {
+	background-color: #ffffff;
+	width: 800px;
+	margin: 20px auto 0px auto;
+	padding: 5px;
+}
+
+
+input,table,p,textarea {
+	font-size: 8pt;
+	color: #444;
+}
+
+input{
+	margin-left: 5px;
+}
+
+.persontable {
+	border-collapse: separate;
+}
+
+.persontable td, .persontable th {
+	font-size: 1em;
+	border: 1px solid #b2b2b2;
+	padding: 3px 7px 2px 7px;
+}
+
+.picture{
+	
+}
